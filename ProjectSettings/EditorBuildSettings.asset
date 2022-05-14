@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: de0dc0c090fa18e4c90f2ae17306d093
+  - enabled: 1
+    path: Assets/TrackSelect.unity
+    guid: ff5985e75cdae924ea4415885546c4e2
+  - enabled: 1
+    path: Assets/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/SampleScene 1.unity
+    guid: dd306ce1dfb150d4cbac57a5253db7bb
+  - enabled: 1
+    path: Assets/Controls.unity
+    guid: 67fbf12e259e4c441b9e8195132b526e
+  m_configObjects: {}
